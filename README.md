@@ -40,6 +40,7 @@
 | h3lix | iOS 10.0 -> 10.3.4 (32-bit only) | Semi-Untethered | Windows & Mac OS X |
 | doubleh3lix | iOS 10.0 -> 10.3.3 | Semi-Untethered | Windows & Mac OS X |
 | Meridian | iOS 10.0 -> 10.3.3 | Semi-Untethered | Windows & Mac OS X |
+| TotallyNotSpyware | iOS 10.0 -> 10.3.3 | Semi-Untethered | Safari Browser |
 | LiberiOS | iOS 11.0 -> 11.1.2 | Semi-Untethered | Windows & Mac OS X |
 | Electra1112 | iOS 11.0 -> 11.1.2 | Semi-Untethered | Windows & Mac OS X |
 | Electra1141 | iOS 11.2 -> 11.4.1 | Semi-Untethered | Windows & Mac OS X |
