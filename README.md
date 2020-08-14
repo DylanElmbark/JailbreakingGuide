@@ -1,19 +1,13 @@
 # JailbreakingGuide
 
-- checkra1n only works with devices with A7 - A11 chipsets, meaning the iPhone 5s all the way up to the iPhone X
-- checkra1n currently supports iOS/iPadOS 12.3 - 13.6.1
-
-- unc0ver works with A7 - A13 chipsets, meaning the iPhone 5s all the way up to the iPhone 11 Pro / Pro Max
-- unc0ver currently supports iOS/iPadOS 11.0 - 13.5
-
-- Chimera works with A7 - A12 chipsets, iPhone 5s -> iPhone XS / XS Max
-- Chimera supports iOS/iPadOS 12.0 - 12.4
-
-- Odyssey works with A9 - A13 chipsets, iPhone 6s/+ -> iPhone 11 Pro / Max
-- Odyssey supports iOS/iPadOS 13.3 13.5
-
 | Device | Version | Jailbreaking Tool |
 |---------|----------|----------|
+| iPhone 2G  | iOS 3.0 -> 3.1.3       | PwnageTool/redsn0w           |
+| iPhone 3G  | iOS 4.0 -> 4.2.1       | greenpois0n/JailbreakMe      |
+| iPhone 3GS | iOS 6.1.3 -> iOS 6.1.6 | p0sixspwn/redsn0w/Sn0wbreeze |
+| iPhone 4   | iOS 7.1 -> iOS 7.1.2   | Pangu7    |
+| iPhone 4S  | iOS 9.3.5 -> iOS 9.3.6 | Phoenix   |
+| iPhone 5   | iOS 10.0 -> iOS 10.3.4 | h3lix     |
 | iPhone 5S  | iOS 12.3 -> iOS 12.4.8 | checkra1n |
 | iPhone 6/Plus  | iOS 12.3 -> iOS 12.4.8 | checkra1n |
 | iPhone 6S/Plus | iOS 12.3 -> iOS 13.6.1 | checkra1n |
