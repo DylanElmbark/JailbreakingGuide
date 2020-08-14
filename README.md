@@ -29,7 +29,7 @@
 | Pangu8 | iOS 8.0 -> 8.2 | Untethered | Windows & Mac OS X | .exe/.dmg | Cydia |
 | TaiG | iOS 8.3 -> 8.4 | Untethered | Windows & Mac OS X | .exe/.dmg | Cydia |
 | etasonJB | iOS 8.4.1 (32-bit only) | Untethered | Windows & Mac OS X | Cydia Impactor | Cydia |
-| Pangu9 | iOS 9.0 -> 9.1 | Untethered | Windows & Mac OS X | .exe/.dmg |
+| Pangu9 | iOS 9.0 -> 9.1 | Untethered | Windows & Mac OS X | .exe/.dmg | Cydia |
 | Pangu933 | iOS 9.2 -> 9.3.3 | Semi-Untethered | Windows & Mac OS X | Cydia Impactor | Cydia |
 | Home Depot | iOS 9.1 -> 9.3.4 (32-bit only) | Semi-Untethered | Windows & Mac OS X | Cydia Impactor | Cydia |
 | Phoenix | iOS 9.3.5 -> 9.3.6 (32-bit only) | Semi-Untethered | Windows & Mac OS X | Cydia Impactor | Cydia |
