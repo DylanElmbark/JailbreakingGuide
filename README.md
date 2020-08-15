@@ -4,8 +4,8 @@
 |---------|----------|----------|---------|--------|
 | iPhone 4S  | iOS 9.3.5 -> iOS 9.3.6 | Phoenix   | Windows & Mac OS X and Linux | Cydia |
 | iPhone 5   | iOS 10.0 -> iOS 10.3.4 | h3lix     | Windows & Mac OS X and Linux | Cydia |
-| iPhone 5S  | iOS 12.3 -> iOS 12.4.8 | checkra1n | Mac OS X & Linux | Cydia |
-| iPhone 6/Plus  | iOS 12.3 -> iOS 12.4.8 | checkra1n | Mac OS X & Linux | Cydia |
+| iPhone 5S  | iOS 12.3 -> iOS 12.4.8 | checkra1n/rootlessJB4 | Mac OS X & Linux | Cydia/Saily |
+| iPhone 6/Plus  | iOS 12.3 -> iOS 12.4.8 | checkra1n/rootlessJB4 | Mac OS X & Linux | Cydia/Saily |
 | iPhone 6S/Plus | iOS 12.3 -> iOS 13.6.1 | checkra1n | Mac OS X & Linux | Cydia |
 | iPhone 7/Plus  | iOS 12.3 -> iOS 13.6.1 | checkra1n | Mac OS X & Linux | Cydia |
 | iPhone 8/Plus  | iOS 12.3 -> iOS 13.6.1 | checkra1n | Mac OS X & Linux | Cydia |
@@ -42,6 +42,7 @@
 | Electra1141 | iOS 11.2 -> 11.4.1 | Semi-Untethered | Windows & Mac OS X | Cydia Impactor | Sileo |
 | unc0ver | iOS 11.0 -> 13.5   | Semi-Untethered | Windows & Mac OS X | AltStore | Cydia |
 | Chimera | iOS 12.0 -> 12.4   | Semi-Untethered | Windows & Mac OS X | AltStore | Sileo |
+| rootlessJB4 | iOS 12.0 -> 12.4.8   | Semi-Untethered | Windows & Mac OS X | AltStore | Saily |
 | checkra1n | iOS 12.3 -> 13.6.1 | Semi-Tethered   | Mac OS X & Linux | .dmg/.deb/CLI | Cydia |
 | Odyssey | iOS 13.3 -> 13.5   | Semi-Untethered | Windows & Mac OS X | AltStore | Sileo |
 
@@ -72,3 +73,4 @@
 - [Chimera](https://chimera.sh/)
 - [checkra1n](https://checkra.in/#release)
 - [Odyssey](https://theodyssey.dev/)
+- [rootlessJB4](https://github.com/brandonplank/rootlessJB4/releases/download/2.1/rootlessJB4.ipa)
