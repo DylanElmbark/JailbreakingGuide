@@ -44,3 +44,8 @@
 | Chimera | iOS 12.0 -> 12.4   | Semi-Untethered | Windows & Mac OS X | AltStore | Sileo |
 | checkra1n | iOS 12.3 -> 13.6.1 | Semi-Tethered   | Mac OS X & Linux | .dmg/.deb/CLI | Cydia |
 | Odyssey | iOS 13.3 -> 13.5   | Semi-Untethered | Windows & Mac OS X | AltStore | Sileo |
+
+
+# Download links to all jailbreak tools
+
+- (https://www.techspot.com/downloads/6494-evasi0n7.html "evasi0n7")
