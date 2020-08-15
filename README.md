@@ -48,4 +48,4 @@
 
 # Download links to all jailbreak tools
 
-- (https://www.techspot.com/downloads/6494-evasi0n7.html "evasi0n7")
+-[evasi0n7] (https://www.techspot.com/downloads/6494-evasi0n7.html "evasi0n7")
