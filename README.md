@@ -48,5 +48,5 @@
 
 # Download links to all jailbreak tools
 
-[evasi0n7](https://www.techspot.com/downloads/6494-evasi0n7.html)
-Pangu7 [Windows](https://mega.nz/file/eY8RxRKb#2UYPogxuerqHdbpXiYUWWP4Wb90KdjXrRvn0poZcbFA) [Mac OS X](https://mega.nz/#!vVlHTSpb!F4q1mbQWKdPRgSHO2jCmrNf13NtzJDouLMBBroWTOOg)
+- [evasi0n7](https://www.techspot.com/downloads/6494-evasi0n7.html)
+- Pangu7 [Windows](https://mega.nz/file/eY8RxRKb#2UYPogxuerqHdbpXiYUWWP4Wb90KdjXrRvn0poZcbFA)    [Mac OS X](https://mega.nz/#!vVlHTSpb!F4q1mbQWKdPRgSHO2jCmrNf13NtzJDouLMBBroWTOOg)
