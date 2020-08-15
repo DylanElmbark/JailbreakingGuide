@@ -19,7 +19,7 @@
 # Jailbreak Tools for iOS 7 up to 13
 
 | Jailbreaking Tool | Jailbreaks | Jailbreak Type | Platform | File Type | Package Manager |
-|----------|---------|----------|--------|---------|------|
+|----------|---------|----------|--------|-----|-----|
 | evasi0n7 | iOS 7.0 -> 7.1 | Untethered | Windows & Mac OS X | .exe/.dmg | Cydia |
 | Pangu7 | iOS 7.1 -> 7.1.2 | Untethered | Windows & Mac OS X | .exe/.dmg | Cydia |
 | Pangu8 | iOS 8.0 -> 8.2 | Untethered | Windows & Mac OS X | .exe/.dmg | Cydia |
