@@ -4,16 +4,16 @@
 |---------|----------|----------|---------|--------|
 | iPhone 4S  | iOS 9.3.5 -> iOS 9.3.6 | Phoenix   | Windows & Mac OS X and Linux | Cydia |
 | iPhone 5   | iOS 10.0 -> iOS 10.3.4 | h3lix     | Windows & Mac OS X and Linux | Cydia |
-| iPhone 5S  | iOS 12.3 -> iOS 12.4.8 | checkra1n/rootlessJB4 | Mac OS X & Linux | Cydia/Saily |
-| iPhone 6/Plus  | iOS 12.3 -> iOS 12.4.8 | checkra1n/rootlessJB4 | Mac OS X & Linux | Cydia/Saily |
-| iPhone 6S/Plus | iOS 12.3 -> iOS 13.6.1 | checkra1n | Mac OS X & Linux | Cydia |
-| iPhone 7/Plus  | iOS 12.3 -> iOS 13.6.1 | checkra1n | Mac OS X & Linux | Cydia |
-| iPhone 8/Plus  | iOS 12.3 -> iOS 13.6.1 | checkra1n | Mac OS X & Linux | Cydia |
-| iPhone X       | iOS 12.3 -> iOS 13.6.1 | checkra1n | Mac OS X & Linux | Cydia |
-| iPhone XR      | iOS 12.0 -> iOS 13.5   | unc0ver/Chimera/Odyssey | Windows & Mac OS X | Cydia/Sileo/Sileo |
-| iPhone XS/Max  | iOS 12.0 -> iOS 13.5   | unc0ver/Chimera/Odyssey | Windows & Mac OS X | Cydia/Sileo/Sileo |
-| iPhone 11      | iOS 13.0 -> iOS 13.5   | unc0ver/Odyssey         | Windows & Mac OS X | Cydia/Sileo |
-| iPhone 11 Pro/Max | iOS 13.0 -> iOS 13.5 | unc0ver/Odyssey        | Windows & Mac OS X | Cydia/Sileo |
+| iPhone 5S  | iOS 12.3 -> iOS 12.4.8 | checkra1n/rootlessJB4/Chimera/unc0ver | Mac OS X & Linux | Cydia/Saily |
+| iPhone 6/Plus  | iOS 12.3 -> iOS 12.5.2 | checkra1n/rootlessJB4/Chimera/unc0ver | Mac OS X & Linux | Cydia/Saily |
+| iPhone 6S/Plus | iOS 12.3 -> iOS 14.4.2 | checkra1n | Mac OS X & Linux | Cydia |
+| iPhone 7/Plus  | iOS 12.3 -> iOS 14.4.2 | checkra1n | Mac OS X & Linux | Cydia |
+| iPhone 8/Plus  | iOS 12.3 -> iOS 14.4.2 | checkra1n | Mac OS X & Linux | Cydia |
+| iPhone X       | iOS 12.3 -> iOS 14.4.2 | checkra1n | Mac OS X & Linux | Cydia |
+| iPhone XR      | iOS 12.0 -> iOS 14.3   | unc0ver/Chimera/Odyssey/Taurine | Windows & Mac OS X | Cydia/Sileo/Sileo |
+| iPhone XS/Max  | iOS 12.0 -> iOS 14.3   | unc0ver/Chimera/Odyssey/Taurine | Windows & Mac OS X | Cydia/Sileo/Sileo |
+| iPhone 11      | iOS 13.0 -> iOS 14.3   | unc0ver/Odyssey/Taurine         | Windows & Mac OS X | Cydia/Sileo |
+| iPhone 11 Pro/Max | iOS 13.0 -> iOS 14.3 | unc0ver/Odyssey/Taurine        | Windows & Mac OS X | Cydia/Sileo |
 
 
 # Jailbreak Tools for iOS 7 up to 13
